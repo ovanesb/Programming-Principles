@@ -2,6 +2,10 @@
 
 # The following .md files explain each programming principle.
 
-  - DRY.md (DRY principle)
-  - SOLID.md (SOLID principle)
-  - YAGNI.md (YAGNI principle)
+  - [DRY principle](DRY.md)
+  - [SOLID principle](SOLID.md) 
+  - [YAGNI principle](YAGNI.md)
+
+
+  
+  
